@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
     :tag => '1.12.2' 
   }
   s.source_files = 'iRate/iRate.{h,m}'
-  s.resource_bundle = { 'iRate' => ['iRate/Localizations/*.lproj'] }
+  s.resource_bundle = { 'iRate' => ['iRate/PrivacyInfo.xcprivacy', 'iRate/Localizations/*.lproj'] }
   s.requires_arc = true
   s.deprecated   = true
   s.osx.deployment_target = '10.9'
