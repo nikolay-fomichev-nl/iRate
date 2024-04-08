@@ -346,6 +346,10 @@ The example is for Mac OS, but the same principle can be applied on iOS.
 Release Notes
 -----------------
 
+Version 1.12.3
+
+- Add privacy manifest
+
 Version 1.12.2
 
 - Marked as deprecated
